@@ -1,0 +1,15 @@
+{
+    "config":{
+        "trigger_back":         "0x02000001",
+        "trigger_edge_back":    "0xFDFFFFFE",
+
+        "trigger":              "0x1A000001",
+        "trigger_mask":         "0x7E000000",
+        "trigger_edge":         "0x00FFFFFF",
+        "both_edges":           "0x00000000",
+        "repeat":               "0x00000000",
+        "trigger_after":        "0x00000800"
+    },
+    "channels":[
+    ]
+}

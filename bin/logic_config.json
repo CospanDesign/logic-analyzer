@@ -1,0 +1,8 @@
+{
+    "device":"uart",
+    "device_path":"/dev/ttyUSB0",
+    "controller":"file",
+    "controller_path":"capture_config.json",
+    "sink":"vcd",
+    "sink_path":"sink.vcd"
+}
